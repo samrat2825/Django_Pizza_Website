@@ -1,0 +1,5 @@
+python --version==3.8.6
+django==3.1.4
+psycopg2
+pgadmin4 --version==4.27
+postgresql --version==12.5.1
